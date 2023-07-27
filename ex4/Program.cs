@@ -1,5 +1,5 @@
 ﻿// Нахождение максимального из трёх чисел 
-Console.WriteLine("Введите число 1");
+Console.WriteLine("Enter the number1");
 string answer1 = Console.ReadLine() ?? "";
 int number1 = int.Parse(answer1);
 Console.WriteLine("Enter the number2");

@@ -1,0 +1,15 @@
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\bin\Debug\net6.0\ex16.exe
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\bin\Debug\net6.0\ex16.deps.json
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\bin\Debug\net6.0\ex16.runtimeconfig.json
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\bin\Debug\net6.0\ex16.dll
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\bin\Debug\net6.0\ex16.pdb
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\obj\Debug\net6.0\ex16.csproj.AssemblyReference.cache
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\obj\Debug\net6.0\ex16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\obj\Debug\net6.0\ex16.AssemblyInfoInputs.cache
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\obj\Debug\net6.0\ex16.AssemblyInfo.cs
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\obj\Debug\net6.0\ex16.csproj.CoreCompileInputs.cache
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\obj\Debug\net6.0\ex16.dll
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\obj\Debug\net6.0\refint\ex16.dll
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\obj\Debug\net6.0\ex16.pdb
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\obj\Debug\net6.0\ex16.genruntimeconfig.cache
+C:\Users\sergm\OneDrive\Desktop\GB CS Seminars\ex16\obj\Debug\net6.0\ref\ex16.dll
